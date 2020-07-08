@@ -1,9 +1,11 @@
-body{
-    font-family: 'Poppins', sans-serif;
-}
+
 .background{
     background-color: #F0FFF0;
+    
 
+}
+.navButton{
+    margin-left: 600px;
 }
 
 span{
@@ -12,15 +14,18 @@ span{
 
 .container{
     margin-bottom: 100px;
+   
     
 }
 .top0{
     margin-left: 100px;
 }
  .top1{
-    margin-top: 90px;
+    margin-top: 80px;
     background-color: #F0FFF0;
     height: 500px;
+    width: 100%;
+    margin-left: 0;
    
 } 
 
@@ -48,8 +53,6 @@ span{
 .para1{
     font-size: 16px;
     color: red;
-    /* margin-bottom: -25px;
-    margin-top: 80px; */
     margin-top: 50px;
    
 }
